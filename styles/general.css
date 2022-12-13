@@ -1,0 +1,9 @@
+:root {
+    font: normal 12px/14px sans-serif;
+}
+
+html,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
